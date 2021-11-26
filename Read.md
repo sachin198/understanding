@@ -1,1 +1,5 @@
 feature
+
+added log();
+
+exit;
