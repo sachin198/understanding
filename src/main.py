@@ -1,0 +1,6 @@
+
+
+
+getinfo();
+exit;
+
